@@ -8,3 +8,6 @@ We'll specifically compare these two types of posts to determine the following:
 - Do posts created at a certain time receive more comments on average?
 
 It should be noted that the data set we're working with was reduced from almost 300,000 rows to approximately 20,000 rows by removing all submissions that did not receive any comments, and then randomly sampling from the remaining submissions.
+
+Dataset:
+https://www.kaggle.com/hacker-news/hacker-news-posts
